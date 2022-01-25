@@ -1,0 +1,35 @@
+
+.morning{
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px solid lightblue;
+    margin: 5px;
+
+}
+
+.afternoon{
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px solid goldenrod;
+    margin: 5px;
+
+}
+.evening{
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px solid skyblue;
+    margin: 5px;
+
+}
+
+
+.name-card{
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px solid red;
+    margin: 5px;
+    padding: 5px;
+}
+.btn{
+    margin: 5px;
+}
